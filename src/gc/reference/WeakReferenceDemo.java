@@ -4,7 +4,7 @@ import java.lang.ref.WeakReference;
 
 /**
  * @date 2019/3/18 0018 下午 3:56
- * @Description 若引用使用方式
+ * @Description 弱引用使用方式
  */
 public class WeakReferenceDemo {
 
